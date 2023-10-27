@@ -1,5 +1,5 @@
-# content-management-tool-CMT-
-Content Management Tool website
+# project-management-tool-CMT-
+Project Management Tool website
 <!DOCTYPE html>
 <html lang="en">
 <head>
